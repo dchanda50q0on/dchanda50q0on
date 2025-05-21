@@ -10,7 +10,7 @@
     <a href="mailto:debajyotipec@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
-    <a href="[YOUR-RESUME-LINK]">
+    <a href="https://github.com/dchanda50q0on/dchanda50q0on/raw/main/Debajyoti_Chanda_Resume_2025.pdf">
       <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white"/>
     </a>
   </p>
