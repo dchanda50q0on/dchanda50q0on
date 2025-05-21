@@ -20,40 +20,70 @@
 
 ## 👨‍💻 Professional Summary
 
-[3-4 sentences highlighting your top skills, years of experience, and professional focus. Example:]
-Seasoned software engineer with 5+ years of experience developing enterprise solutions for Fortune 500 clients. Specializing in full-stack JavaScript development and cloud architecture. Passionate about creating scalable, user-centric applications that solve real business problems.
+I transform quality assurance into strategic business advantages through cutting-edge test automation, accesibility and performance engineering solutions. With cross-industry expertise spanning finance, retail, insurance, and industrial technology, I help organizations achieve:  
+
+    ✓ 95% effort reduction in test automation  
+    ✓ 67% cost savings through AI-powered solutions  
+    ✓ 50% faster load testing via optimized frameworks  
 
 ---
-
 ## 🏢 Enterprise Experience
 
 <div align="center">
-  <h3>Trusted by industry leaders:</h3>
-  
-  <div style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/58/HCLTechnologies_logo.svg" height="50" alt="HCLTech"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Cognizant_logo_2022.svg/1200px-Cognizant_logo_2022.svg.png" height="50" alt="Cognizant"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Accenture.svg/1200px-Accenture.svg.png" height="50" alt="Accenture"/>
-  </div>
+
+| Employer | Key Clients |
+|----------|-------------|
+| <img src="https://i.imgur.com/ZDIZcME.png" width="100" alt="HCLTech"/> | <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; justify-content: center;"> <span>USAA</span> • <span>LexisNexis</span> </div> |
+| <img src="https://i.imgur.com/KbmOjiF.jpeg" width="100" alt="Cognizant"/> | <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; justify-content: center;"> <span>Lloyds Bank</span> • <span>JPMC</span> • <span>ING</span> <br> • <span>Travelers</span> • <span>Liberty Mutual</span> </div> |
+| <img src="https://i.imgur.com/UjdC525.png" width="100" alt="Accenture"/> | <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; justify-content: center;"> <span>National Bank of Canada</span> • <span>CIBC</span> • <span>LCBO</span> <br> <span>Export Development Canada</span> • <span>Macy's</span> • <span>T.Rowe Price</span> <br> <span>Johnson Control</span> </div> |
+
 </div>
 
----
-
-## 🚀 Featured Projects
-
-### [Project 1 Name] | [Tech Stack Badges]
-**GitHub:** [Repository Link]  
-**Demo:** [Video Link]  
-[2-3 sentence description focusing on business value and technical complexity]
 
 ---
 
-### [Project 2 Name] | [Tech Stack Badges]
-**GitHub:** [Repository Link]  
-**Demo:** [Video Link]  
-[Concise description]
+## 🏆 Featured Projects
 
-[Repeat for 3-5 projects]
+<div style="display: flex; flex-direction: column; gap: 30px;">
+
+### <img src="https://i.imgur.com/ppW8gAz.png" width="75"/> **Export Development Canada | CEBA Program**  
+**Role:** Overall QE Lead | **Team:** 40+ Testers  
+**Achievements:**  
+✓ **00.02% defect leakage** - industry-leading quality benchmark  
+✓ **75% automation coverage** using Selenium Cucumber framework  
+✓ **10K concurrent users** benchmarked via JMeter performance testing  
+✓ **On-time delivery** of critical pandemic relief program  
+
+**Tech Stack:**  
+`Selenium` `Cucumber` `JMeter` `Accessibility Testing` `Azure DevOps` `React`
+
+---
+
+### <img src="https://i.imgur.com/WM2DDxg.png" width="75"/> **LCBO | Data Center Migration**  
+**Role:** Migration Architect | **Scope:** 650+ applications  
+**Achievements:**  
+✓ **Zero-downtime** migration to Guelph virtual data centers  
+✓ **100% uptime** maintained during critical retail operations  
+✓ **Seamless UX** with no production incidents post-migration  
+✓ **Cross-functional team** building & leadership  
+
+**Tech Stack:**  
+`VMware` `Load Balancing` `DR Testing` `Performance Benchmarking`
+
+---
+
+### <img src="https://cdn-icons-png.flaticon.com/512/1086/1086741.png" width="25"/> **Retail Giant (Atlanta) | AI Test Automation**  
+**Solution:** Press-N-Go (Agentic AI Framework)  
+**Breakthroughs:**  
+✓ **95% time savings** - 2000 test cases automated in 400hrs  
+✓ **67% cost reduction** vs traditional automation  
+✓ **JIRA-to-executable** conversion in minutes via Gemini LLM  
+✓ **GitLab Runner** scaling for parallel execution  
+
+**Tech Stack:**  
+`Gemini LLM` `Browser-Use Agent` `GitLab CI/CD` `Python` `REST APIs`
+
+</div>
 
 ---
 
