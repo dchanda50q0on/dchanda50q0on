@@ -72,7 +72,7 @@ I transform quality assurance into strategic business advantages through cutting
 
 ---
 
-### <img src="https://cdn-icons-png.flaticon.com/512/1086/1086741.png" width="25"/> **Retail Giant (Atlanta) | AI Test Automation**  
+### <img src="https://cdn-icons-png.flaticon.com/512/1086/1086741.png" width="50"/> **Retail Giant (Atlanta) | AI Test Automation**  
 **Solution:** Press-N-Go (Agentic AI Framework)  
 **Breakthroughs:**  
 ✓ **95% time savings** - 2000 test cases automated in 400hrs  
@@ -82,6 +82,21 @@ I transform quality assurance into strategic business advantages through cutting
 
 **Tech Stack:**  
 `Gemini LLM` `Browser-Use Agent` `GitLab CI/CD` `Python` `REST APIs`
+
+---
+
+
+### <img src="https://i.imgur.com/FCheaoj.png" width="50"/> **Liberty Mutual Insurance | ECLPS (Commercial Lines Policy System) Performance Validation**  
+**Role:** Performance Engineering Lead  
+**Scope:** 50-State Rollout, 21 Lines of Business
+**Achievements:**  
+✓ **Performance validation** - for multi-LOB commercial insurance products across all 50 states  
+✓ **Performance Center of Excellence** established for scalable validation practices  
+✓ **Quote system & 21 LOBs** tested for high concurrency and reliability  
+✓ **Advanced monitoring** using Splunk for log/error trend analysis and Dynatrace for Java memory management  
+
+**Tech Stack:**  
+`LoadRunner` `Splunk` `Dynatrace` `Java` `REST APIs`
 
 </div>
 
