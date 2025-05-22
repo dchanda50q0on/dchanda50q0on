@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://i.imgur.com/9tvmvvq.png" width="200" style="border-radius: 50%; border: 5px solid #f0f0f0"/>
+  
+  <img src="https://i.imgur.com/9tvmvvq.png" width="200" style="border-radius: 50%; border: 25px solid #f0f0f0"/>
   
   <h1>Debajyoti Chanda</h1>
   
@@ -20,11 +21,11 @@
 
 ## 👨‍💻 Professional Summary
 
-I transform quality assurance into strategic business advantages through cutting-edge test automation, accesibility and performance engineering solutions. With cross-industry expertise spanning finance, retail, insurance, and industrial technology, I help organizations achieve:  
+With over 20 years of expertise in software testing, I have successfully led and delivered a diverse portfolio of projects spanning Performance Engineering, Test Automation, Accessibility, and more. My experience encompasses large-scale implementations across Banking & Financial Services (BFS), Insurance, and Public Sector domains, consistently ensuring high-quality outcomes for mission-critical systems.
 
-    ✓ 95% effort reduction in test automation  
-    ✓ 67% cost savings through AI-powered solutions  
-    ✓ 50% faster load testing via optimized frameworks  
+Specializing in automation-driven delivery, I have architected and managed multi-environment test automation frameworks that provide developers with instant feedback, accelerating release cycles and enhancing code quality. My performance engineering initiatives have scaled applications to support thousands of concurrent users, incorporating advanced Java memory tuning for optimal resource utilization and stability under load.
+
+A strong advocate for innovation, I have built Agentic automation solutions that have reduced manual effort by 90% and delivered cost savings of up to 67%. My approach integrates strategic use of cutting-edge tools and methodologies—enabling seamless integration, continuous delivery, and robust test coverage across complex enterprise landscapes.
 
 ---
 ## 🏢 Enterprise Experience
@@ -106,9 +107,11 @@ I transform quality assurance into strategic business advantages through cutting
 
 | Solution | Description | Technologies |
 |----------|-------------|--------------|
-| **Garate** | Automated gated entry system with facial recognition | Python, OpenCV, IoT |
-| **Jitana** | Real-time business analytics platform | React, Node.js, MongoDB |
-| **Press-n-Go** | One-click deployment system | Docker, Kubernetes, AWS |
+| **Garate** | innovative integration of Gatling and Karate that enables seamless reuse of functional API test cases written in Karate for performance testing with Gatling | Gatling, Karate, Elasticsearch, Grafana |
+| **Jitana** | Real-time on demand perfromance test execution and visualization | Jmeter, Elasticsearch, Grafana, Docker |
+| **Press-n-Go** | One-click Agentic AI based Test Automation system | Browser-Use, Gemini, Python |
+| **Automated Accessibility Testing** | Reuse Selenium Test Automation for Accessibility Validation | Selenium, Java, Google Devtool |
+| **Mainframe Automation** | Mainframe green screen automation using Robot Framework | Robot, Python, py3270 |
 
 ---
 
