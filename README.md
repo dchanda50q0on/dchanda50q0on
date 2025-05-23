@@ -119,10 +119,8 @@ A strong advocate for innovation, I have built Agentic automation solutions that
 
 <div align="center">
   <a href="[REPO-1-LINK]">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=[YOUR-USERNAME]&repo=[REPO-1-NAME]&theme=algolia" width="400"/>
-  </a>
-  <a href="[REPO-2-LINK]">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=[YOUR-USERNAME]&repo=[REPO-2-NAME]&theme=algolia" width="400"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dchanda50q0on&repo=PressNGo_CLI&theme=algolia" width="400"/>
+    <h4>One-click Agentic AI based Test Automation system | Browser-Use, Gemini, Python |</h4>    
   </a>
 </div>
 
