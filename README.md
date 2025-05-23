@@ -118,7 +118,7 @@ A strong advocate for innovation, I have built Agentic automation solutions that
 ## 📌 Pinned Repositories
 
 <div align="center">
-  <a href="[REPO-1-LINK]">
+  <a href="https://github.com/dchanda50q0on/PressNGo_CLI.git">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=dchanda50q0on&repo=PressNGo_CLI&theme=algolia" width="400"/>
     <h4>One-click Agentic AI based Test Automation system | Browser-Use, Gemini, Python |</h4>    
   </a>
